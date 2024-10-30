@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1 (8751) - http://www.bohemiancoding.com/sketch -->
+    <title>icon 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="icon-2" sketch:type="MSArtboardGroup">
+            <g id="Triangle-2-+-Triangle-3" sketch:type="MSLayerGroup">
+                <rect id="Rectangle-315" fill="#E67E22" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128"></rect>
+                <g id="close-button" transform="translate(105.000000, 30.000000)" sketch:type="MSShapeGroup">
+                    <circle id="Oval-166" stroke="#FFFFFF" stroke-width="2" cx="8" cy="8" r="8"></circle>
+                    <g id="Rectangle-317-+-Rectangle-318" transform="translate(8.000000, 8.000000) rotate(-45.000000) translate(-8.000000, -8.000000) translate(4.000000, 4.000000)" fill="#FFFFFF">
+                        <rect id="Rectangle-317" x="3" y="0" width="2" height="8"></rect>
+                        <rect id="Rectangle-318" transform="translate(4.000000, 4.000000) rotate(-90.000000) translate(-4.000000, -4.000000) " x="3" y="0" width="2" height="8"></rect>
+                    </g>
+                </g>
+                <path d="M66.0224495,43.5937839 L71.0816114,50.0580294 L71.0816114,50.0580294 L62.880373,60.5370018 L57.8212111,54.0727563 L66.0224495,43.5937839 Z M62.880373,39.579057 L54.6465564,29.0584583 L6.95141123,90 L23.353888,90 L54.6465564,50.0164032 L54.6791346,50.0580294 L62.880373,39.579057 Z M74.2236879,54.0727563 L102.341702,90 L85.9392248,90 L85.9392248,90 L66.0224495,64.5517288 L74.2236879,54.0727563 L74.2236879,54.0727563 Z" id="Triangle-2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M105.548934,90 L121.951411,90 L74.2562661,29.0584583 L26.561121,90 L42.9635977,90 L74.2562661,50.0164032 L105.548934,90 Z" id="Triangle-3" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
